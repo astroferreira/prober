@@ -7,5 +7,5 @@ setup(name='prober',
       author='Leonardo de Albernaz Ferreira',
       author_email='leonardo.ferreira@nottingham.ac.uk',
       license='MIT',
-      moduless=['prober'],
+      scripts=['prober.py'],
       zip_safe=False)
